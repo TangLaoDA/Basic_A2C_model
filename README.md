@@ -10,7 +10,7 @@ The parameter update process of the A2C is as follows:
 ![image](https://github.com/TangLaoDA/Basic_A2C_model/blob/master/PPT/5.png)    
 You can Change code to play other OpenAi Gym games.  
 You can also Optimize this algorithm.  
-If you want to exchange ideas with me，you can add me to WeChat:zggcdbd.  
+If you want to exchange ideas with me，you can add me to WeChat:zggcdbs.  
 
 
 
